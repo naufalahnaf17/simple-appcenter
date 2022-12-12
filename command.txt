@@ -1,0 +1,2 @@
+appcenter codepush release-react -a naufalahnaf37-gmail.com/simple-test -d Staging ->> buat staging
+appcenter codepush release-react -a naufalahnaf37-gmail.com/simple-test -d Production ->> buat deployment
